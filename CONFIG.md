@@ -27,8 +27,9 @@ sign-language-jp
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- "手話"
-- "要約筆記"
+- 犬
+- 猫
+- ネコ
 > - 聴覚障害
 > - 難聴
 > - 中途失聴
