@@ -9,13 +9,15 @@ sign-language-jp
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-聴覚障害
+テストフィード
+> 聴覚障害
 
 # description
 
 > This is the description of the feed.
 
-手話・要約筆記など聴覚障害に関するポストを拾ってくるフィードです
+テスト中のフィードです
+> 手話・要約筆記など聴覚障害に関するポストを拾ってくるフィードです
 
 # searchTerms
 
@@ -25,8 +27,8 @@ sign-language-jp
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- '手話'
-- '要約筆記'
+- "手話"
+- "要約筆記"
 > - 聴覚障害
 > - 難聴
 > - 中途失聴
